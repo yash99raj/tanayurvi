@@ -1,1 +1,1 @@
-Just a shopping website prototupe
+Just a shopping website prototype
